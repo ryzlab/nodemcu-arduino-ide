@@ -9,3 +9,5 @@ Följ instruktion på https://bennthomsen.wordpress.com/iot/iot-things/esp8266-w
 Nu skall porten dyka upp när NodeMCU kopplas till en serieport
 
 Installera Mosquitto
+
+Installera PubSub lib PubSub Client by Nick O'leary (https://pubsubclient.knolleary.net)
