@@ -11,3 +11,5 @@ Nu skall porten dyka upp när NodeMCU kopplas till en serieport
 Installera Mosquitto
 
 Installera PubSub lib PubSub Client by Nick O'leary (https://pubsubclient.knolleary.net)
+
+Installera JSON library by Benoit Blanchon
